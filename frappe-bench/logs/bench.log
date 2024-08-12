@@ -112,3 +112,28 @@
 2024-08-12 12:35:28,904 INFO /home/frappe/.local/bin/bench --site dharmeshcabs.local install-app work24
 2024-08-12 12:35:34,291 INFO /home/frappe/.local/bin/bench migrate
 2024-08-12 12:35:50,102 INFO /home/frappe/.local/bin/bench --site dharmeshcabs.local uninstall-app work24
+2024-08-12 12:37:37,586 INFO /home/frappe/.local/bin/bench --site dharmeshcabs.local install-app work24
+2024-08-12 12:37:57,837 INFO /home/frappe/.local/bin/bench --site dharmeshcabs.local uninstall-app work24
+2024-08-12 12:38:19,363 INFO /home/frappe/.local/bin/bench new-app work
+2024-08-12 12:38:19,368 LOG creating new app work
+2024-08-12 12:38:37,523 LOG Installing work
+2024-08-12 12:38:37,524 DEBUG cd /workspace/frappe-bench && /workspace/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /workspace/frappe-bench/apps/work 
+2024-08-12 12:38:39,618 DEBUG bench build --app work
+2024-08-12 12:38:39,741 INFO /home/frappe/.local/bin/bench build --app work
+2024-08-12 12:38:41,327 WARNING restart failed: Couldn't find supervisorctl in PATH
+2024-08-12 12:38:48,395 INFO /home/frappe/.local/bin/bench --site dharmeshcabs.local install-app work
+2024-08-12 12:39:18,222 INFO /home/frappe/.local/bin/bench setup requirments
+2024-08-12 12:39:18,227 WARNING /home/frappe/.local/bin/bench setup requirments executed with exit code 2
+2024-08-12 12:39:25,132 INFO /home/frappe/.local/bin/bench setup requirements
+2024-08-12 12:39:25,140 DEBUG /workspace/frappe-bench/env/bin/python -m pip install --quiet --upgrade pip
+2024-08-12 12:39:26,112 LOG Installing frappe
+2024-08-12 12:39:26,112 DEBUG cd /workspace/frappe-bench && /workspace/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /workspace/frappe-bench/apps/frappe 
+2024-08-12 12:39:28,782 DEBUG cd /workspace/frappe-bench/apps/frappe && yarn install --check-files
+2024-08-12 12:39:30,616 LOG Installing work24
+2024-08-12 12:39:30,616 DEBUG cd /workspace/frappe-bench && /workspace/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /workspace/frappe-bench/apps/work24 
+2024-08-12 12:39:32,949 LOG Installing work
+2024-08-12 12:39:32,950 DEBUG cd /workspace/frappe-bench && /workspace/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /workspace/frappe-bench/apps/work 
+2024-08-12 12:39:35,125 LOG Installing rentals
+2024-08-12 12:39:35,125 DEBUG cd /workspace/frappe-bench && /workspace/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /workspace/frappe-bench/apps/rentals 
+2024-08-12 12:39:46,480 INFO /home/frappe/.local/bin/bench migrate
+2024-08-12 12:40:12,316 INFO /home/frappe/.local/bin/bench --site dharmeshcabs.local uninstall-app work

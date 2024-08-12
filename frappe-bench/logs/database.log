@@ -1911,3 +1911,7 @@ alter table `tabDocType` add column if not exists migration_hash varchar(140)
 alter table `tabDocType` add column if not exists migration_hash varchar(140)
 2024-08-12 12:35:35,145 WARNING database DDL Query made to DB:
 alter table `tabDocType` add column if not exists migration_hash varchar(140)
+2024-08-12 12:39:47,229 WARNING database DDL Query made to DB:
+alter table `tabDocType` add column if not exists migration_hash varchar(140)
+2024-08-12 12:40:38,732 WARNING database DDL Query made to DB:
+ALTER TABLE `tabDriver` MODIFY `enable` tinyint NOT NULL DEFAULT 0
