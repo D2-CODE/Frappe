@@ -7,5 +7,15 @@
         "required": [],
         "idx": 1,
         "version": "16.0.0-dev"
+    },
+    "rentals": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "830a78248d63f4afc91892c163a08e98a76a01f3",
+            "branch": "develop"
+        },
+        "required": [],
+        "idx": 2,
+        "version": "0.0.1"
     }
 }
