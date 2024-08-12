@@ -2590,3 +2590,9 @@ index creation(creation))
 			ROW_FORMAT=DYNAMIC
 			CHARACTER SET=utf8mb4
 			COLLATE=utf8mb4_unicode_ci
+2024-08-12 11:39:23,435 WARNING database DDL Query made to DB:
+alter table `tabDocType` add column if not exists migration_hash varchar(140)
+2024-08-12 11:43:36,482 WARNING database DDL Query made to DB:
+ALTER TABLE `tabDriver` ADD COLUMN `enable` tinyint NOT NULL DEFAULT 0, ADD COLUMN `first_name` varchar(140), ADD COLUMN `license_number` varchar(140), ADD COLUMN `last_name` varchar(140), ADD COLUMN `phone_number` varchar(140), ADD COLUMN `driver_profile` text
+2024-08-12 11:44:05,024 WARNING database DDL Query made to DB:
+ALTER TABLE `tabDriver` MODIFY `enable` tinyint NOT NULL DEFAULT 0

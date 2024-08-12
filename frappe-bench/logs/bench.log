@@ -70,3 +70,9 @@
 2024-08-12 11:38:28,469 INFO /home/frappe/.local/bin/bench use dharmeshcabs.local
 2024-08-12 11:38:35,363 INFO /home/frappe/.local/bin/bench --site dharmeshcabs.local enable-scheduler
 2024-08-12 11:38:43,550 INFO /home/frappe/.local/bin/bench --site dharmeshcabs.local add-to-hosts
+2024-08-12 11:39:22,678 INFO /home/frappe/.local/bin/bench --site dharmeshcabs.local migrate
+2024-08-12 11:56:09,276 INFO /home/frappe/.local/bin/bench start
+2024-08-12 11:56:09,888 INFO /home/frappe/.local/bin/bench serve --port 8000
+2024-08-12 11:56:09,935 INFO /home/frappe/.local/bin/bench worker
+2024-08-12 11:56:09,943 INFO /home/frappe/.local/bin/bench schedule
+2024-08-12 11:56:09,969 INFO /home/frappe/.local/bin/bench watch
