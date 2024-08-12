@@ -17,5 +17,15 @@
         "required": [],
         "idx": 2,
         "version": "0.0.1"
+    },
+    "work24": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "0b03965ebb0df0d0bf2502794dcfec77c772acc3",
+            "branch": "develop"
+        },
+        "required": [],
+        "idx": 3,
+        "version": "0.0.1"
     }
 }
