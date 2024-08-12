@@ -88,3 +88,5 @@
 2024-08-12 12:15:34,939 INFO /home/frappe/.local/bin/bench worker
 2024-08-12 12:15:34,981 INFO /home/frappe/.local/bin/bench watch
 2024-08-12 12:19:57,059 INFO /home/frappe/.local/bin/bench --site dharmeshcabs.local mariadb
+2024-08-12 12:27:18,093 INFO /home/frappe/.local/bin/bench restart
+2024-08-12 12:27:18,100 WARNING restart failed: Couldn't find supervisorctl in PATH
