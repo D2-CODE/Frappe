@@ -1,0 +1,6 @@
+2024-08-12 11:35:38,343 ERROR frappe New Exception collected in error log
+Site: dharmeshcabs.local
+Form Dict: {'args': '{"language":"English","country":"India","timezone":"Asia/Kolkata","currency":"INR","full_name":"dharmesh","email":"dhruv1572004@gmail.com","password":"Dh@rmesh110724"}', 'cmd': 'frappe.desk.page.setup_wizard.setup_wizard.setup_complete'}
+2024-08-12 11:36:17,545 ERROR frappe New Exception collected in error log
+Site: dharmeshcabs.local
+Form Dict: {'cmd': 'frappe.www.login.send_login_link', 'email': 'dhruv1572004@gmail.com'}

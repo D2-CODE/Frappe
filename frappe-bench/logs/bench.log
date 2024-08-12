@@ -50,3 +50,23 @@
 2024-08-12 11:25:15,198 WARNING restart failed: Couldn't find supervisorctl in PATH
 2024-08-12 11:27:05,719 INFO /home/frappe/.local/bin/bench --site dharmeshcabs.local install-app rentals
 2024-08-12 11:27:56,329 INFO /home/frappe/.local/bin/bench --site dharmeshcabs.local list-apps
+2024-08-12 11:28:30,953 INFO /home/frappe/.local/bin/bench start
+2024-08-12 11:28:31,606 INFO /home/frappe/.local/bin/bench watch
+2024-08-12 11:28:31,676 INFO /home/frappe/.local/bin/bench serve --port 8000
+2024-08-12 11:28:31,707 INFO /home/frappe/.local/bin/bench worker
+2024-08-12 11:28:31,733 INFO /home/frappe/.local/bin/bench schedule
+2024-08-12 11:30:29,049 INFO /home/frappe/.local/bin/bench start
+2024-08-12 11:30:29,554 INFO /home/frappe/.local/bin/bench worker
+2024-08-12 11:30:29,687 INFO /home/frappe/.local/bin/bench watch
+2024-08-12 11:30:29,710 INFO /home/frappe/.local/bin/bench schedule
+2024-08-12 11:30:29,809 INFO /home/frappe/.local/bin/bench serve --port 8000
+2024-08-12 11:31:40,213 INFO /home/frappe/.local/bin/bench start
+2024-08-12 11:31:40,811 INFO /home/frappe/.local/bin/bench worker
+2024-08-12 11:31:40,856 INFO /home/frappe/.local/bin/bench schedule
+2024-08-12 11:31:40,898 INFO /home/frappe/.local/bin/bench serve --port 8000
+2024-08-12 11:31:40,939 INFO /home/frappe/.local/bin/bench watch
+2024-08-12 11:38:12,812 INFO /home/frappe/.local/bin/bench --site dharmeshcabs.local list-apps
+2024-08-12 11:38:19,919 INFO /home/frappe/.local/bin/bench use dharmeshcabs.local
+2024-08-12 11:38:28,469 INFO /home/frappe/.local/bin/bench use dharmeshcabs.local
+2024-08-12 11:38:35,363 INFO /home/frappe/.local/bin/bench --site dharmeshcabs.local enable-scheduler
+2024-08-12 11:38:43,550 INFO /home/frappe/.local/bin/bench --site dharmeshcabs.local add-to-hosts
