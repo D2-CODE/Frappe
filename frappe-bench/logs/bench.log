@@ -82,3 +82,9 @@
 2024-08-12 12:11:23,279 INFO /home/frappe/.local/bin/bench watch
 2024-08-12 12:11:23,291 INFO /home/frappe/.local/bin/bench schedule
 2024-08-12 12:11:23,310 INFO /home/frappe/.local/bin/bench worker
+2024-08-12 12:15:33,702 INFO /home/frappe/.local/bin/bench start
+2024-08-12 12:15:34,815 INFO /home/frappe/.local/bin/bench serve --port 8000
+2024-08-12 12:15:34,846 INFO /home/frappe/.local/bin/bench schedule
+2024-08-12 12:15:34,939 INFO /home/frappe/.local/bin/bench worker
+2024-08-12 12:15:34,981 INFO /home/frappe/.local/bin/bench watch
+2024-08-12 12:19:57,059 INFO /home/frappe/.local/bin/bench --site dharmeshcabs.local mariadb
