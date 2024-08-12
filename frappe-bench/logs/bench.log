@@ -27,3 +27,8 @@
 2024-08-12 10:36:04,924 INFO /home/frappe/.local/bin/bench schedule
 2024-08-12 10:36:04,925 INFO /home/frappe/.local/bin/bench watch
 2024-08-12 10:39:36,850 INFO /home/frappe/.local/bin/bench --version
+2024-08-12 10:51:50,993 INFO /home/frappe/.local/bin/bench start
+2024-08-12 10:51:51,577 INFO /home/frappe/.local/bin/bench schedule
+2024-08-12 10:51:51,659 INFO /home/frappe/.local/bin/bench worker
+2024-08-12 10:51:51,686 INFO /home/frappe/.local/bin/bench serve --port 8000
+2024-08-12 10:51:51,796 INFO /home/frappe/.local/bin/bench watch

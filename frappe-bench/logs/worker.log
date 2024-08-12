@@ -6,3 +6,12 @@
 2024-08-12 10:36:06,004 Cleaning registries for queue: workspace-frappe-bench:long
 2024-08-12 10:36:49,700 Worker 32fa3524470c496797d144afd3bdcbb5 [PID 7709]: warm shut down requested
 2024-08-12 10:36:49,708 Unsubscribing from channel rq:pubsub:32fa3524470c496797d144afd3bdcbb5
+2024-08-12 10:51:52,813 Worker rq:worker:0e331e5d46f64b29a191de1623e9fd82 started with PID 23079, version 1.16.2
+2024-08-12 10:51:52,819 Subscribing to channel rq:pubsub:0e331e5d46f64b29a191de1623e9fd82
+2024-08-12 10:51:52,834 *** Listening on workspace-frappe-bench:short, workspace-frappe-bench:default, workspace-frappe-bench:long...
+2024-08-12 10:51:52,836 Cleaning registries for queue: workspace-frappe-bench:short
+2024-08-12 10:51:52,843 Cleaning registries for queue: workspace-frappe-bench:default
+2024-08-12 10:51:52,863 Cleaning registries for queue: workspace-frappe-bench:long
+2024-08-12 10:53:15,963 workspace-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.create_contact', kwargs={'user': <User: Administrator>, 'ignore_mandatory': True}, method='frappe.core.doctype.user.user.create_contact', site='dev.localhost', user='Administrator') (dev.localhost::edad5783-e9e9-4831-85ce-f120f9204c6a)
+2024-08-12 10:53:16,285 workspace-frappe-bench:default: Job OK (dev.localhost::edad5783-e9e9-4831-85ce-f120f9204c6a)
+2024-08-12 10:53:16,285 Result is kept for 600 seconds
