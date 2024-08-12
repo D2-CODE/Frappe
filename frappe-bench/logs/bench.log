@@ -76,3 +76,4 @@
 2024-08-12 11:56:09,935 INFO /home/frappe/.local/bin/bench worker
 2024-08-12 11:56:09,943 INFO /home/frappe/.local/bin/bench schedule
 2024-08-12 11:56:09,969 INFO /home/frappe/.local/bin/bench watch
+2024-08-12 11:58:28,099 INFO /home/frappe/.local/bin/bench --site dharmeshcabs.local migrate

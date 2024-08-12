@@ -496,3 +496,7 @@
 2024-08-12 11:56:02,641 workspace-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.queue.flush', 'scheduled_job_type': '5tlr9iv9ab'..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='dev.localhost', user='Administrator') (dev.localhost::scheduled_job::5tlr9iv9ab)
 2024-08-12 11:56:03,182 workspace-frappe-bench:default: Job OK (dev.localhost::scheduled_job::5tlr9iv9ab)
 2024-08-12 11:56:03,182 Result is kept for 600 seconds
+2024-08-12 11:58:31,912 workspace-frappe-bench:long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.search.website_search.build_index_for_all_routes', kwargs={}, method=<function build_index_for_all_routes at 0x72572120d260>, site='dharmeshcabs.local', user='Administrator') (dharmeshcabs.local::37c5f0fc-573b-4898-ad46-1f74ed043bff)
+Retrieving Routes                   : [=                                       ] 3%
+2024-08-12 11:58:36,057 workspace-frappe-bench:long: Job OK (dharmeshcabs.local::37c5f0fc-573b-4898-ad46-1f74ed043bff)
+2024-08-12 11:58:36,057 Result is kept for 600 seconds

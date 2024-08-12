@@ -1,12 +1,10 @@
 [
-    "tabNavbar Item",
-    "tabRoute History",
-    "tabSingles",
     "tabInstalled",
-    "tabError Log",
-    "tabRoute",
-    "tabNavbar",
     "tabInstalled Application",
-    "tabError",
-    "tabVersion"
+    "tabRoute History",
+    "tabNavbar",
+    "tabSingles",
+    "tabVersion",
+    "tabRoute",
+    "tabNavbar Item"
 ]
